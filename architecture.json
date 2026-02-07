@@ -1,0 +1,72 @@
+{
+  "book_id": "modernist-american-stream-of-consciousness-exile-diaspora",
+  "title": "The Honest Light of Aftermath",
+  "tagline": "An exiled writer in Paris sifts through the rubble of memory and language, seeking a truth that lies between the lies of light and the ache of absence.",
+  "target_words": 72897,
+  "actual_words": 72897,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Unreliability of Memory",
+    "Linguistic and Cultural Displacement",
+    "The Search for Authenticity",
+    "The Haunting of Home"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Honeyed Lie of Light",
+      "words": 6627
+    },
+    {
+      "ch": 2,
+      "title": "Dust, an Oud Note, a Printed Email",
+      "words": 6627
+    },
+    {
+      "ch": 3,
+      "title": "Drawers Full of Dry Leaves",
+      "words": 6627
+    },
+    {
+      "ch": 4,
+      "title": "A House of Cards on Ice",
+      "words": 6627
+    },
+    {
+      "ch": 5,
+      "title": "The Measured Punctuation of Footsteps",
+      "words": 6627
+    },
+    {
+      "ch": 6,
+      "title": "Halogen Eyes, a Pinned Specimen",
+      "words": 6627
+    },
+    {
+      "ch": 7,
+      "title": "The Flat Grey Verdict of Rain",
+      "words": 6627
+    },
+    {
+      "ch": 8,
+      "title": "The Untroubled Lie of Water",
+      "words": 6627
+    },
+    {
+      "ch": 9,
+      "title": "The Honest Light of Aftermath",
+      "words": 6627
+    },
+    {
+      "ch": 10,
+      "title": "The Quiet of a Breath Released",
+      "words": 6627
+    },
+    {
+      "ch": 11,
+      "title": "A Known Quantity of Cold",
+      "words": 6627
+    }
+  ]
+}
